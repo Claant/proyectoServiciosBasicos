@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">proyecto Servicios Basicos</string>
+    <string name="Registrar_medicion">Registrar Medicion</string>
+    <string name="Titulo">Registro Medidor</string>
+    <string name="fecha">Fecha</string>
+    <string name="Medidor">Medidor</string>
+    <string name="Medidor_de">Medidor de :</string>
+
+</resources>

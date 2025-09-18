@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">proyect</string>
+    <string name="Registrar_medicion" >Record Measurement</string>
+    <string name="Titulo" >Meter Registration</string>
+    <string name="fecha" >Date</string>
+    <string name="Medidor" >Meter</string>
+    <string name="Medidor_de" >Meter of :</string>
+</resources>
